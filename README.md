@@ -1,2 +1,2 @@
-# Angular-Projects-Crud-Example
+# Angular-Projects
 Angular projects
